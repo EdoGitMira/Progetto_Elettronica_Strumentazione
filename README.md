@@ -13,7 +13,19 @@
 # 1. Progetto Inseguitore
 | *inseguitpre ogg1* | *inseguitpre ogg2*| *Scansione 180°*|
 |:----------------:|:----------:|:-----------:|
-|  <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/inseguitore1.mp4">   |  <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/inseguitore2.mp4">     |   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/scansione.mp4">    |
+|  <video src="
+
+https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/011a9d13-0bde-471a-bb6c-143b7d44c1ec
+
+">   |  <video src="
+
+https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/2202176f-ad6c-40ce-be80-fb46fe5914d1
+
+">     |   <video src="
+
+https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/eec919b9-b86a-4c39-af9a-4862db92e79c
+
+">    |
 
  <br>
 # 2. Progetto Semaforo
