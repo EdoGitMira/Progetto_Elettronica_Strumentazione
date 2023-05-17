@@ -5,8 +5,9 @@
   - [2.1 Macchina a stati](#31-Macchina-a-stati)
 <br>
 ![Badge License]
-<div align = center>
 
+<div align = center>
+<br>
 ![Badge Edoardo]
 ![Badge Manuele]
 ![Badge Peter]
@@ -22,7 +23,9 @@
  
 ![image](https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/7cd84c78-b070-4e97-93ab-561c3161737f)
 ## 2.1 Macchina a stati
-![Uploading image.png…]()
+  
+![image](https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/b06d2097-d5a2-4b0a-9738-c70c98763996)
+
 
   
  
