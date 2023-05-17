@@ -1,7 +1,9 @@
 # Progetto_Elettronica_Strumentazione
 - [1. Progetto Inseguitore](#1-Progetto-Inseguitore)
+  - [1.1 Flow Chart](#31-Flow-Chart)
 - [2. Progetto Semaforo](#2-Progetto-Semaforo)
-- <br>
+  - [2.1 Macchina a stati](#31-Macchina-a-stati)
+<br>
 ![Badge License]
 <div align = center>
 
@@ -11,19 +13,19 @@
 <div>
 
 # 1. Progetto Inseguitore
- <br>
-   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/011a9d13-0bde-471a-bb6c-143b7d44c1ec">    
- <br>
-   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/2202176f-ad6c-40ce-be80-fb46fe5914d1">    
- <br>
-   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/eec919b9-b86a-4c39-af9a-4862db92e79">    
- <br>
+![image](https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/90ddc55d-2aaf-415d-9976-08fccd3bfc44)
+## 1.1 Flow Chart
+ ![image](https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/1b0f9252-b38f-4e91-9b14-8991820d1e8a)
+
+ 
 # 2. Progetto Semaforo
- <br>
-   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/be87b92c-7ebe-43f8-9b46-e28b944af96e">
- <br>
+ 
+![image](https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/assets/49036361/7cd84c78-b070-4e97-93ab-561c3161737f)
+## 2.1 Macchina a stati
+![Uploading image.png…]()
 
   
+ 
 [Badge License]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
 [Badge Edoardo]: https://img.shields.io/badge/Edoardo_Mirandola-FFC000?style=for-the-badge
 [Badge Manuele]: https://img.shields.io/badge/Manuele_Pennacchio-FFC000?style=for-the-badge
