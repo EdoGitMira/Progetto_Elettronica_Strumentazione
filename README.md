@@ -1,6 +1,7 @@
 # Progetto_Elettronica_Strumentazione
 - [1. Progetto Inseguitore](#1-Progetto-Inseguitore)
 - [2. Progetto Semaforo](#2-Progetto-Semaforo)
+- <br>
 ![Badge License]
 <div align = center>
 
@@ -8,10 +9,13 @@
 ![Badge Manuele]
 ![Badge Peter]
 <div>
-  
+ <br>
 # 1. Progetto Inseguitore
+| *inseguitpre ogg1* | *inseguitpre ogg2*| *Scansione 180°*|
+|:----------------:|:----------:|:-----------:|
+|  <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/inseguitore1.mp4">   |  <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/inseguitore2.mp4">     |   <video src="https://github.com/EdoGitMira/Progetto_Elettronica_Strumentazione/blob/main/DATA/scansione.mp4">    |
 
-  
+ <br>
 # 2. Progetto Semaforo
 
   
